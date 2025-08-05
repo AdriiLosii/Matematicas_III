@@ -1,0 +1,11 @@
+Instrucciones para ejecutar Euler.py:
+-En la línea 15 se define la ecuación diferencial.
+-En las líneas 29 y 30 los valores iniciales de x e y respectivamente.
+-Finalmente en la línea 33 el valor de x a aproximar.
+-Ejecutar.
+
+Instrucciones para ejecutar RK4.py:
+-En la línea 15 se define la ecuación diferencial.
+-En las líneas 38 y 39 los valores iniciales de x e y respectivamente.
+-Finalmente en la línea 42 el valor de x a aproximar.
+-Ejecutar.
